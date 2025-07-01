@@ -1,5 +1,6 @@
 # Ignore environment files
 backend/.env
+frontend/.env
 
 # Node modules
 backend/node_modules/
